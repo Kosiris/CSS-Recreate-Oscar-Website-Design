@@ -1,0 +1,100 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/* Nav Starts */
+nav {
+    font-size: 16px;
+    background-color: #1d807f;
+    text-align: center;
+}
+
+ul {
+    list-style: none;
+    color: white;
+}
+
+li {
+    padding-right: 1em;
+    display: inline-block;
+}
+
+button {
+    border-radius: 12px;
+    border-color: white;
+    color: white;
+    padding: 15px 32px;
+    background-color: #1d807f;
+}
+
+.n1 {
+    color: white;
+    text-decoration: none;
+}
+/* Nav Ends */
+
+/* Header Starts */
+header {
+    text-align: center;
+}
+/* Header Ends */
+
+/* Section 1 Starts */
+.header1 {
+    text-align: center;
+}
+
+p {
+    padding-top: 14px;
+}
+
+.s1 {
+   display: flex;
+   align-items: center; 
+}
+
+img {
+    max-width: 100%;
+}
+
+.content1 {
+    margin-left: 20px;
+}
+
+h2 {
+    margin: 0;
+}
+/* Section 1 Ends */
+
+/* Section 2 Starts */
+.s2 {
+    display: flex;
+    align-items: center;
+}
+
+.content2 {
+    margin-right: 20px;
+}
+/* Section 2 Ends */
+
+/* Section 3 Starts */
+.s3 {
+    display: flex;
+    align-items: center;
+}
+
+.content3 {
+    margin-left: 20px;
+}
+/* Section 3 Ends */
+
+/* Section 4 Starts */
+.s4 {
+    display: flex;
+    align-items: center;
+}
+
+.content4 {
+    margin-left: 20px;
+}
+/* Section 4 Ends */
